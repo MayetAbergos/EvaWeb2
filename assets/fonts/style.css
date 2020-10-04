@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Hero-Regular';
+   font-display: swap;
+   src: url('Hero-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Hero-Bold';
+   font-display: swap;
+   src: url('Hero-Bold/font.ttf');
+}
